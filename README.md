@@ -20,6 +20,16 @@ Some material about RStudio Certification Training
 * [Instructor Certification Exams](https://education.rstudio.com/blog/2020/02/instructor-certification-exams/)
 * [FAQs](https://education.rstudio.com/trainers/)
 
+## Study Material
+
+* [R for Data Science](https://r4ds.had.co.nz/) 
+* [Exercises and solutions of R4DS](https://jrnold.github.io/r4ds-exercise-solutions/).     
+* [RStudio cheat sheets](https://rstudio.com/resources/cheatsheets/)
+
+### In other languages
+
+* [RStudio cheat sheets translation](https://rstudio.com/resources/cheatsheets/#translations)
+* [R for data science inSpanish](https://github.com/cienciadedatos/documentacion-traduccion-r4ds)
 
 ## Talks and webinars
 
