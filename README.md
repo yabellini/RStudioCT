@@ -22,14 +22,28 @@ Some material about RStudio Certification Training
 
 ## Study Material
 
+### Tidyverse
+
 * [R for Data Science](https://r4ds.had.co.nz/) 
 * [Exercises and solutions of R4DS](https://jrnold.github.io/r4ds-exercise-solutions/).     
 * [RStudio cheat sheets](https://rstudio.com/resources/cheatsheets/)
 
+### Teaching
+
+* [Teaching Tech Together](https://teachtogether.tech/)
+* [Full course material](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY)
+
 ### In other languages
 
 * [RStudio cheat sheets translation](https://rstudio.com/resources/cheatsheets/#translations)
-* [R for data science inSpanish](https://github.com/cienciadedatos/documentacion-traduccion-r4ds)
+* [R for data science in Spanish](https://github.com/cienciadedatos/documentacion-traduccion-r4ds)
+* [Full course material in Spanish](https://drive.google.com/drive/folders/1qwTEMqoqphF9qu7f0lSCSTmikIf5chBi?usp=sharing)
 
 ## Talks and webinars
 
+
+
+## Lesson, Concep Map and Learner Personas examples
+
+[RMarkdown chunks lesson | Yanina Bellini](https://docs.google.com/document/d/1Z8zhRjK7tQ-VcOUMnOmxKNb2Ra_3DKsvMzo1iGeIt0I/edit?usp=sharing)
+[RMarkdown chunks slides | Yanina Bellini](https://docs.google.com/presentation/d/1Uzb5sHM54_t6NWLSDely6fCi8Nu4qhCT-qxMKY-vh78/edit?usp=sharing) 
