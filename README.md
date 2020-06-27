@@ -9,10 +9,11 @@ Some material about RStudio Certification Training
 
 * [Notes on the RStudio Instructor Training Experience | Ted Laderas](https://laderast.github.io/2019/11/15/my-experience-with-rstudio-instructor-training/)
 
+* [A Review: RStudio Teaching Certification Course | Rayna M. Harris](https://www.raynamharris.com/blog/rstudioTTT/)
+
 * [The RStudio Certification Process | Shel Kariuki](https://shelkariuki.netlify.app/blog/certification/)
 
 * [Obtaining RStudio certification. A shared path. | Yanina Bellini Saibene](https://yabellini.netlify.app/post/rstudiocertification/)
-## Slides
 
 
 ## FAQs and Exam examples
@@ -41,7 +42,8 @@ Some material about RStudio Certification Training
 
 ## Talks and webinars
 
-
+* [MiR webinar in RStudio's instructor training program | Greg Wilson, Shel Kariuki | Yanina Bellini](https://t.co/xRDTPFhGog?amp=1)
+* [How to Design an Effective Lesson | Greg Wilson](https://vimeo.com/314074539)
 
 ## Lesson, Concep Map and Learner Personas examples
 
