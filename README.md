@@ -47,5 +47,5 @@ Some material about RStudio Certification Training
 
 ## Lesson, Concep Map and Learner Personas examples
 
-[RMarkdown chunks lesson | Yanina Bellini](https://docs.google.com/document/d/1Z8zhRjK7tQ-VcOUMnOmxKNb2Ra_3DKsvMzo1iGeIt0I/edit?usp=sharing)
-[RMarkdown chunks slides | Yanina Bellini](https://docs.google.com/presentation/d/1Uzb5sHM54_t6NWLSDely6fCi8Nu4qhCT-qxMKY-vh78/edit?usp=sharing) 
+* [RMarkdown chunks lesson | Yanina Bellini](https://docs.google.com/document/d/1Z8zhRjK7tQ-VcOUMnOmxKNb2Ra_3DKsvMzo1iGeIt0I/edit?usp=sharing)
+* [RMarkdown chunks slides | Yanina Bellini](https://docs.google.com/presentation/d/1Uzb5sHM54_t6NWLSDely6fCi8Nu4qhCT-qxMKY-vh78/edit?usp=sharing) 
