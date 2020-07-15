@@ -15,6 +15,8 @@ Some material about RStudio Certification Training
 
 * [Obtaining RStudio certification. A shared path. | Yanina Bellini Saibene](https://yabellini.netlify.app/post/rstudiocertification/)
 
+* [Two examples of iteration with purrr - Class for the R-Studio certification | Florencia D'Andrea ]https://florencia.netlify.app/2020/06/two-examples-of-iteration-with-purrr.en-us/
+
 
 ## FAQs and Exam examples
 
