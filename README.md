@@ -7,6 +7,8 @@ Some material about RStudio Certification Training
 
 ## Blog post
 
+* [Practice using lubridate... THEATRICALLY - Julia Silge](https://juliasilge.com/blog/lubridate-london-stage/)
+
 * [Notes on the RStudio Instructor Training Experience | Ted Laderas](https://laderast.github.io/2019/11/15/my-experience-with-rstudio-instructor-training/)
 
 * [A Review: RStudio Teaching Certification Course | Rayna M. Harris](https://www.raynamharris.com/blog/rstudioTTT/)
